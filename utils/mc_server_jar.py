@@ -1,3 +1,8 @@
+
+##################################################################################
+# Fetches most recent release level MC server jar link and spits it out to STDOUT#
+##################################################################################
+
 import os
 import json
 import requests

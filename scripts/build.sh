@@ -1,1 +1,1 @@
-docker build -t minecraft-server .
+docker build -t minecraft-server ../.

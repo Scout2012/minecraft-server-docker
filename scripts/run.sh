@@ -1,0 +1,1 @@
+docker run -d -p 25565:25565 -v minecraft-server-world:/minecraft-server/world -v minecraft-server-config:/minecraft-server/config minecraft-server
